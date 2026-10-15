@@ -23,3 +23,4 @@ class ExampleInstrumentedTest {
     }
 }
 // изменила текст
+// для ветки2
