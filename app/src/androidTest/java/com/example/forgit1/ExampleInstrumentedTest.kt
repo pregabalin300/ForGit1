@@ -22,3 +22,4 @@ class ExampleInstrumentedTest {
         assertEquals("com.example.forgit1", appContext.packageName)
     }
 }
+// комментарий для коммита
